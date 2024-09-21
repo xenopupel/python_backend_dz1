@@ -1,2 +1,2 @@
 ## ДЗ 1
-### Запуск: uvicorn asgi:application
+### Запуск: uvicorn hw1.asgi:application
