@@ -1,2 +1,2 @@
-## Запускать вот так
-### uvicorn asgi:application
+## ДЗ 1
+### Запуск: uvicorn asgi:application
